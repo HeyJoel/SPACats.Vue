@@ -1,0 +1,170 @@
+{
+  "data": {
+    "items": [
+      {
+        "catId": 28,
+        "name": "Morris",
+        "description": "Morris is always looking for an adventure",
+        "totalLikes": 4,
+        "mainImage": {
+          "imageAssetId": 20,
+          "fileName": "morris",
+          "fileNameOnDisk": "20",
+          "fileExtension": "jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": "Morris",
+          "fileStamp": "2551106517204",
+          "verificationToken": "isqiqp",
+          "fileUpdateDate": "2018-01-31T16:04:11.7204",
+          "defaultAnchorLocation": null,
+          "url": "/assets/20"
+        }
+      },
+      {
+        "catId": 27,
+        "name": "Tigra",
+        "description": "She might be shy, but Tigra has a look that is hard to match",
+        "totalLikes": 3,
+        "mainImage": {
+          "imageAssetId": 18,
+          "fileName": "tigra",
+          "fileNameOnDisk": "18",
+          "fileExtension": "jpg",
+          "width": 1024,
+          "height": 768,
+          "title": "Tigra",
+          "fileStamp": "2551105567338",
+          "verificationToken": "d1i2jj",
+          "fileUpdateDate": "2018-01-31T16:02:36.7338",
+          "defaultAnchorLocation": null,
+          "url": "/assets/18"
+        }
+      },
+      {
+        "catId": 26,
+        "name": "Mercedes",
+        "description": "Cute and needy, Mercedes is useless without her owner",
+        "totalLikes": 2,
+        "mainImage": {
+          "imageAssetId": 16,
+          "fileName": "mercedes",
+          "fileNameOnDisk": "16",
+          "fileExtension": "jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": "Mercedes",
+          "fileStamp": "2551104568606",
+          "verificationToken": "nK0i0O",
+          "fileUpdateDate": "2018-01-31T16:00:56.8606",
+          "defaultAnchorLocation": null,
+          "url": "/assets/16"
+        }
+      },
+      {
+        "catId": 25,
+        "name": "Pablo",
+        "description": "The bad boy of the litter, Pablo is not a nice guy",
+        "totalLikes": 2,
+        "mainImage": {
+          "imageAssetId": 14,
+          "fileName": "pablo",
+          "fileNameOnDisk": "14",
+          "fileExtension": "jpg",
+          "width": 1024,
+          "height": 678,
+          "title": "Pablo",
+          "fileStamp": "2551103487159",
+          "verificationToken": "oC3cyJ",
+          "fileUpdateDate": "2018-01-31T15:59:08.7159",
+          "defaultAnchorLocation": null,
+          "url": "/assets/14"
+        }
+      },
+      {
+        "catId": 24,
+        "name": "Sally",
+        "description": "Looks can be deceiving, Sally is the tough cat of the street and always asserts authority",
+        "totalLikes": 1,
+        "mainImage": {
+          "imageAssetId": 12,
+          "fileName": "sally-awake",
+          "fileNameOnDisk": "12",
+          "fileExtension": "jpg",
+          "width": 1280,
+          "height": 959,
+          "title": "Sally awake",
+          "fileStamp": "2551102516506",
+          "verificationToken": "A8A136",
+          "fileUpdateDate": "2018-01-31T15:57:31.6506",
+          "defaultAnchorLocation": null,
+          "url": "/assets/12"
+        }
+      },
+      {
+        "catId": 23,
+        "name": "Mr Tiddles",
+        "description": "Quick & cunning, Mr Tiddles always brings home the mice after a hard days adventuring",
+        "totalLikes": 1,
+        "mainImage": {
+          "imageAssetId": 10,
+          "fileName": "mr-tiddles-close-up",
+          "fileNameOnDisk": "10",
+          "fileExtension": "jpg",
+          "width": 2000,
+          "height": 1500,
+          "title": "Mr tiddles close up",
+          "fileStamp": "2551101471729",
+          "verificationToken": "5AF06B",
+          "fileUpdateDate": "2018-01-31T15:55:47.1729",
+          "defaultAnchorLocation": null,
+          "url": "/assets/10"
+        }
+      },
+      {
+        "catId": 22,
+        "name": "Captain Fluffy",
+        "description": "Captain Fluffy is a persian cat that loves mice and cake",
+        "totalLikes": 0,
+        "mainImage": {
+          "imageAssetId": 8,
+          "fileName": "captain-fluffy",
+          "fileNameOnDisk": "8",
+          "fileExtension": "jpg",
+          "width": 1024,
+          "height": 634,
+          "title": "Captain fluffy",
+          "fileStamp": "2551099406093",
+          "verificationToken": "0FD9BB",
+          "fileUpdateDate": "2018-01-31T15:52:20.6093",
+          "defaultAnchorLocation": null,
+          "url": "/assets/8"
+        }
+      },
+      {
+        "catId": 21,
+        "name": "Toby",
+        "description": "With a look so intense, Toby is sure to capture your heart",
+        "totalLikes": 0,
+        "mainImage": {
+          "imageAssetId": 7,
+          "fileName": "bashful-toby",
+          "fileNameOnDisk": "7",
+          "fileExtension": "jpg",
+          "width": 960,
+          "height": 635,
+          "title": "Bashful toby",
+          "fileStamp": "2551098361617",
+          "verificationToken": "245F22",
+          "fileUpdateDate": "2018-01-31T15:50:36.1617",
+          "defaultAnchorLocation": null,
+          "url": "/assets/7"
+        }
+      }
+    ],
+    "totalItems": 8,
+    "pageCount": 1,
+    "pageNumber": 1,
+    "pageSize": 8
+  }
+}
